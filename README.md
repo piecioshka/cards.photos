@@ -2,9 +2,11 @@
 
 :spades::hearts::clubs::diamonds: SVG place holder with gambling cards
 
-## Demo 🎉
+![](./banner.png)
 
-<https://cards.photos>
+## Preview 🎉
+
+<https://piecioshka.github.io/cards.photos/>
 
 ## Features
 
@@ -12,7 +14,7 @@
 
 ## Related
 
-* [picsum.photos](https://github.com/piecioshka/picsum.photos)
+* [picsum.photos](https://picsum.photos)
 
 ## License
 
